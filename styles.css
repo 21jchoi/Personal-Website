@@ -1,14 +1,14 @@
 /*TODO: Add a background color or image to your website*/
 body {
- background-color: #967bb6; 
+ background-color: #9ADDD6; 
 }
 
 
 h1 {
-  color: navy;
+  color: #DF567D;
 }
 
-
+.bio{color:white;}
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
 
 
