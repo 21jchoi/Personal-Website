@@ -5,7 +5,7 @@ body {
 
 
 .header {
-  color: #FFCB9A;
+  color: #FAED26;
   background-image: url("https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-022.jpg");
   background-repeat: no-repeat;
   background-size: 2000px;
@@ -17,9 +17,21 @@ body {
   font-family: Arial Black;
 }
 
+.header-port{
+  color: #FFCB9A;
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pickpik.com%2Fwatercolor-peach-background-pink-texture-pink-background-95508&psig=AOvVaw0gX3u6Y8a-DYTnTeGs_jNo&ust=1594268530708000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIj0nqfnvOoCFQAAAAAdAAAAABAD");
+  background-repeat: no-repeat;
+  background-size: 2000px;
+  padding-top:200px;
+  padding-bottom:200px;
+  border-bottom: 15px solid black;
+  text-align: center;
+  font-size: 30px;
+  font-family: Arial Black;
+}
 
 .bio{
-  color:#D1E8E2;
+  color:white;
   font-size: 25px;
   text-align: justify;
   float: right;
@@ -44,7 +56,7 @@ p{
   margin-left:70px;
   margin-top: 25px;
   margin-bottom:50px;
-  border: 5px dotted white;
+  border: 5px dotted #FAED26;
   padding: 5px
 }
 
