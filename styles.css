@@ -23,9 +23,10 @@ body {
   color:#D1E8E2;
   font-size: 25px;
   padding-left: 600px;
-  padding-bottom: 500px;
+  padding-bottom: 0px;
   padding-right: 50px;
-  text-align: justify
+  text-align: justify;
+  float: right;
 }
 p{
   padding-top: 1em;
@@ -36,8 +37,11 @@ p{
   padding: 0px;
 }
 
-#mypic{
-  
+img{
+  max-width:500px;
+  border-radius:50%;
+  float: left;
+  margin-bottom: 600px
 }
 
 
