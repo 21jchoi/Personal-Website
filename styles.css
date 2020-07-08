@@ -21,9 +21,15 @@ body {
 
 .bio{
   color:#D1E8E2;
-  font-size: 20px;
+  font-size: 25px;
+  padding: 1em;
+  padding-left: 600px;
+  padding-bottom: 500px;
+  text-align: justify
 }
-
+p{
+  padding-top: 1em;
+}
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
 *{
   margin: 0px;
