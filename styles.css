@@ -22,11 +22,11 @@ body {
 .bio{
   color:#D1E8E2;
   font-size: 25px;
-  padding-left: 600px;
-  padding-bottom: 0px;
-  padding-right: 50px;
   text-align: justify;
   float: right;
+  width:800px;
+  padding-right: 2em;
+  padding-top:2.5em
 }
 p{
   padding-top: 1em;
@@ -38,10 +38,14 @@ p{
 }
 
 img{
-  max-width:500px;
-  border-radius:50%;
   float: left;
-  margin-bottom: 600px
+  max-width:400px;
+  border-radius:50%;
+  margin-left:70px;
+  margin-top: 25px;
+  margin-bottom:50px;
+  border: 5px dotted white;
+  padding: 5px
 }
 
 
