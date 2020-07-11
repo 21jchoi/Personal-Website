@@ -64,7 +64,7 @@ p{
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
-  justify-content: space-evenly;
+  justify-content: center;
 }
 
 ul{
@@ -82,11 +82,12 @@ li a {
   text-decoration:none;
   text-align: center;
   font-size: 1.3em;
-  padding: 8px;
-  margin-left: 200px;
-  margin-right: 200px;
-  color: white;
-  background-color: pink;
+  padding: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  color: #2C3531;
+  background-color: #FAED26;
+  
 }
 
 .container {
