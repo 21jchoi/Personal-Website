@@ -18,13 +18,13 @@ body {
 }
 
 .header-port{
-  color: #FAED26;
-  background-image: url("https://c1.wallpaperflare.com/preview/160/110/428/purple-wall-painted-plaster.jpg");
+  color: #18AAE8;
+  background-image: url("https://c1.wallpaperflare.com/preview/896/809/244/paper-texture-winter-color.jpg");
   background-repeat: no-repeat;
   background-size: 2000px;
   padding-top:200px;
   padding-bottom:200px;
-  border-bottom: 15px solid #FAED26;
+  border-bottom: 15px solid #18AAE8;
   text-align: center;
   font-size: 45px;
   font-family:'Bebas Neue',cursive;
@@ -130,7 +130,7 @@ li a:hover{
 }
 
 .proj-header{
-  color: #FAED26;
+  color: #18AAE8;
   font-family: PT Sans Narrow;
 }
 
